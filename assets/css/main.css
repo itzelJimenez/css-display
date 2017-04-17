@@ -1,0 +1,11 @@
+div{
+	display: block;
+	height: 50px;
+}
+.amarillo{
+	background-color: yellow;
+}
+.rosa{
+	background-color: #FE2E64;
+	border: solid 1px black;
+}
