@@ -1,14 +1,10 @@
 div{
-	display: block;
-	height: 50px;
-	width: 200px;
-	margin-left: 40%;
-	margin-top: 2%;
+	display: inline;
+	padding: 10px;
 }
 .amarillo{
 	background-color: yellow;
 }
 .rosa{
 	background-color: #FE2E64;
-	border: solid 1px black;
 }
